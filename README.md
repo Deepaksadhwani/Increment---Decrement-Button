@@ -1,8 +1,27 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##  Increment And Decrement Button Mini Project
+## 🔗 Links
+<font size="5">[Click here](https://deepak-react-project1.netlify.app/)</font>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## usage:
+
+This project is used by the following companies:
+
+- Click on the "Increment" button to increase the numerical value.
+- Click on the "Decrement" button to decrease the numerical value.
+- Click on the "Reset" button to return the  value back to 0.
+The current value is displayed on the screen.
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+
